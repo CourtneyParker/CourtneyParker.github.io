@@ -1,0 +1,42 @@
+
+
+
+
+<style> 
+
+.special{
+    color: crimson;
+}
+
+
+.special2{
+        background:black;
+}
+section a { color: darkgreen;}
+
+.container  {
+    color: orange;
+}
+   p { font-size: 12px;
+    }
+p{
+    font-size: 24px;
+}
+
+nav li a {color: orchid;}
+
+p{ font-size: 12px!important;}
+
+    
+}
+span {
+    background: greenyellow;
+    height: 50px;
+    width: 300px;
+    display:block;
+}
+
+article {
+    background-color: aqua;
+}
+  </style>      
