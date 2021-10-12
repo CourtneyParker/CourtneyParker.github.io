@@ -3,7 +3,9 @@
 
 
 <style> 
-
+<h1> {
+    color: Blue;}
+}
 .special{
     color: crimson;
 }
@@ -37,6 +39,21 @@ span {
 }
 
 article {
-    background-color: aqua;
+    background-color: rgb(119, 0, 255);
 }
+
+ul{
+    background-color: rgb(255, 0, 119);  
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+  }
+  
+ 
   </style>      
