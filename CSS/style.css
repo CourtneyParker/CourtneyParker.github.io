@@ -1,0 +1,10 @@
+header{
+    border-style: dashed;
+    text-align: center;
+}
+
+nav ul li{
+    float: left;
+    padding: 10px;
+    list-style: none;
+}
