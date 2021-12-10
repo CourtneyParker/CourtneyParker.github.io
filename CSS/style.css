@@ -1,14 +1,27 @@
 .header, footer{
-    background-color: lightgrey;
+    background-color: darkblue;
     border-style: solid;
     text-align: center;
+    color: white;
     padding: 10px;
+}
+
+body{
+    background-color: lightblue;
+}
+
+a{
+    color:white;
 }
 
 .header ul li{
     display: inline;
     padding: 10px;
     list-style: none;
+}
+
+.title{
+    text-align: center;
 }
 
 
@@ -20,3 +33,61 @@ footer{
     width: 200px;
     height: 150px;
 }
+
+.flexBox{
+    display: flex;
+    flex-direction: row;
+}
+
+.rightSide{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.leftSide{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.rightSide img{
+    width:400px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.leftSide img{
+    width:400px;
+    height: 250px;
+    margin-left: auto;
+}
+
+.leftPic img{
+    width:600px;
+    height:500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.rightPic img{
+    width:400px;
+    height: 550px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.rightText{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
