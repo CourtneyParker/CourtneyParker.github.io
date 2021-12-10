@@ -24,7 +24,6 @@ a{
     text-align: center;
 }
 
-
 footer{
     position: relative;
 }
@@ -51,7 +50,7 @@ footer{
     text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
-    margin-left: 200px;
+    margin-left: 150px;
     margin-right: 200px;
 }
 
@@ -73,7 +72,7 @@ footer{
     height:500px;
     margin-top: 50px;
     margin-bottom: 50px;
-    margin-left: 100px;
+    margin-left: 75px;
     margin-right: 100px;
 }
 
@@ -91,3 +90,15 @@ footer{
     margin-bottom: 50px;
     margin-left: 20px;
     margin-right: 20px;
+}
+
+.leftText{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+p{
+    font-size: 18px;
+}
