@@ -8,6 +8,7 @@
 
 body{
     background-color: lightblue;
+    font-size: 18px;
 }
 
 a{
@@ -36,6 +37,7 @@ footer{
 .flexBox{
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .rightSide{
@@ -99,6 +101,37 @@ footer{
     margin-right: 20px;
 }
 
-p{
-    font-size: 18px;
+.outSide{
+    text-align: center;
+}
+
+.outSide ul{
+    list-style: none;
+}
+.outSide ul li a{
+    color: black;
+}
+
+.pageLink{
+    text-align: center;
+}
+
+.pageLink ul{
+    list-style: none;
+}
+
+.pageLink ul li a{
+    color:black;
+    font-size: 20px;
+}
+
+.leftSideFlex img{
+    width:400px;
+    height:300px;
+    margin-left: 60px;
+}
+
+.rightSideTextFlex{
+    margin-left: 50px;
+    margin-right: 50px;
 }
