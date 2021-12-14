@@ -135,3 +135,15 @@ footer{
     margin-left: 50px;
     margin-right: 50px;
 }
+
+.planeText{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.planeText a{
+    color:black;
+    font-size: 20px;
+}
+
